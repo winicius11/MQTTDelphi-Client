@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/04/15 21:13:07.910,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/15 21:13:33.408,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit1.dfm=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/15 21:13:33.408,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit1.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/15 21:13:36.200,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Project1.dproj=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/15 21:13:41.477,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 21:13:51.419,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\UMQTT.Client.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 21:14:05.405,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 21:14:15.534,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\UMQTT.Connection.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 21:14:31.511,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 21:14:37.535,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\UMQTT.Types.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 21:41:06.166,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\UMQTT.Protocol.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\UMQTT.Types.pas</Transaction>
+    <Transaction>2022/04/16 14:08:35.095,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+    <Transaction>2022/04/16 14:08:49.991,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\UMQTT.Protocol.Types.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\MQTT - Component\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
